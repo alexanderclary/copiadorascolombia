@@ -1,0 +1,3 @@
+<FilesMatch "^.*style.*?$">
+AddHandler text/css .css
+</FilesMatch>

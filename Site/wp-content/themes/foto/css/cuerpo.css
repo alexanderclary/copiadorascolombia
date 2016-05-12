@@ -1,0 +1,205 @@
+*{
+	-moz-box-sizing:border-box;
+}
+*:before,
+*:after{
+	-moz-box-sizing: border-box;
+}
+
+.gracias-text{
+	background: red !important;
+}
+.container-fluid{
+	background:#fefefe;
+}
+
+.container{
+	padding: 0px;
+	padding-bottom: 0.5%;
+	
+
+}
+
+.logo{
+	margin-top: 3%;
+}
+#fondo{
+	background: #f3f3f3;
+}
+.color{
+	background:#e7e7e7;
+	
+}
+.row .img{
+	padding: 0px;
+}
+#franja{
+	
+	background: #006699;
+	height: 4%;
+}
+
+p{
+	text-align: justify;
+	font-size: 18px;
+}
+.color div{
+	padding: 0px;
+}
+.color h2{
+	text-align: justify;
+	font-size: 18px;
+}
+ul{
+	text-align: justify;
+	font-size: 17px;
+}
+.titulo{
+	color:#a3261f;
+	font-size: 23px;
+	text-align: center;
+	font-weight: bolder;
+}
+.titulo-dos{
+	color:#fafafa;
+	font-size: 25px;
+	text-align: center;
+	font-weight: bolder;
+}
+.sub-titulo{
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+}
+.cajas{
+	background:#fafafa;
+	border-radius: 3px;
+}
+
+.distancia{
+	background: #0089b4;
+}
+.esp{
+	background: #a3261f;
+	padding-top: 0.3%;
+
+}
+.esp h2{
+	text-align: center;
+	font-size: 24px;
+	
+}
+.esp p{
+	padding: 6%;
+	margin: 3%;
+	text-align: center;
+	font-size: 16px;
+}
+.esp-text{
+	padding: 4%;
+	text-align: center;
+	color:#fff;
+	font-weight: bolder;
+}
+.esp-text1{
+	font-weight: lighter;
+	padding: 3%;
+	font-size: 18px;
+	text-align: justify;
+	color:#fff;
+}
+.text-head{
+	text-align: center;
+	font-size: 20px;
+	font-weight:bolder;
+}
+.h1-es{
+	text-align: center;
+	color:#fff;
+	font-weight: bolder;
+}
+.h1n1{
+	font-size: 50px;
+	text-align: center;
+	color:#fff;
+	font-weight: bolder;
+}
+.h1-fo{
+	background: #0089b4;
+}
+.banner{
+	background:#0089b4; 
+	text-align: center;
+	text-indent: 4%;
+	
+}
+
+ ul{
+		margin: 6%;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		padding-top: 2%;
+		margin-right: 10%;
+		
+}
+.banner p{
+	text-indent:0.3%;
+	text-decoration:none;
+	margin-bottom: 5%;
+}
+.ta{
+	width: 30%;
+	height: auto;
+	left: 40%;
+	top: 60%;
+	position:absolute; z-index:1;
+}
+.espacio{
+	background: #19648e;
+	height: 6px;
+}
+.espacio-fo{
+	background: #0089b4;
+	height: 15px;
+}
+.img-boton1{
+	width: 70%;
+	margin: 8%;
+	margin-top: 5%;
+	margin-bottom: 2%;
+}
+.r1 div{
+	padding: 0px;	
+}
+.r1 p{
+	padding:2%;
+	padding-right: 3%;
+	padding-left:9%; 
+}
+.r2 p{
+
+	padding-right: 3%;
+	padding-left:5%; 
+}
+
+.im-ta img{
+
+	width: 90%;
+	max-width: 380px;
+	max-height: 190px;
+}
+.im-ta2 div{
+	padding: 0px;
+	margin: 0px;
+}
+.im-ta2 img{
+
+	width: 100%;
+	
+	max-height: 190px;
+}
+.caja2 img{
+	width: 100%;
+	max-width: 670px;
+	max-height: 380px;
+}

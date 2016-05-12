@@ -1,0 +1,131 @@
+
+h4{
+	text-align: center;
+}
+
+
+
+.modal-header{
+	background: #a32d1f !important;
+	color: #fafafa;
+	padding: 3% !important;
+	border-radius: 5px 5px 0px 0px;
+}
+.ventana-men div{
+	margin: 0px;
+}
+.close{
+	color: #fafafa !important;
+}
+
+.ventana-men .boton{
+	margin-bottom: 2%;
+	margin-top: 2%;
+	width: 80%;
+	border: 0px;
+	background: #0089b4;
+	color: #fafafa;
+	border-radius: 5px;
+	box-shadow:  0px 2px 2px 0px rgba(0,0,0,0.1);
+	 -webkit-transition: 0.5s; 
+    transition: 0.5s;
+}
+.ventana-men .boton:hover{
+	background: #19648e;
+}
+.modal-title{
+	padding-top: 1%;
+	
+}
+.ventana-men .modal-text{
+	margin-top: 2%;
+	border-radius: 5px;
+	border: 1px solid #e7e7e7;
+}
+.ventana-men  input{
+	width: 100%;
+	padding: 8px;
+}
+.ventana-men  textarea{
+	padding: 20px;
+	width: 100%;
+
+}
+
+.tex-f{
+	padding: 2%;
+}
+.tex-f p{
+	font-size: 40px;
+	text-align: center;
+}
+.tex-f h1{
+	font-size: 40px;
+	text-align: center;
+}
+.o img{
+ 	margin-top: 10%;
+	padding-left: 10%;
+	width: 70%;
+	max-height: 120px;
+
+}
+.llam{
+	margin-top: 2%;
+}
+.llamada{
+	font-size: 26px;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.cone{
+	width: 100% !important;
+	
+}
+.img img{
+
+}
+.caja-con input{
+	margin-left: 5%;
+}
+.caja-con{
+	background-color: #a3261f;	
+}
+
+.caja{
+	background: #fafafa;
+}
+
+.caja1{
+	padding-bottom: 1%;
+
+}
+.sombra{
+	box-shadow: 0px 2px 5px 0px #e7e7e7;
+}
+.caja1 div{
+	padding: 0px;
+	
+}
+.con input{
+	width: 95%;
+	margin: 1%;
+	padding: 4.5%;
+}
+.con input[type='submit']{
+	width: 95%;
+	margin-bottom: 2%;
+	padding: 10px;
+}
+.con textarea{
+	width: 95%;
+	margin: 1%;
+	height: 95%;
+	padding: 11%;
+
+}
+.titulo-con{
+	
+}
+

@@ -1,0 +1,10 @@
+FTP Acces
+	Server = ftp.tablerointeractivo.info
+	Port = 21
+	User = copiadorascolombia@tablerointeractivo.info
+	Password = 8K[k$fRIAO3~
+
+Wordpress Admin
+	User = admin-claryicon
+	Password = C14@ry|20@16
+	Panel = www.copiadorascolombia.co/wp-admin

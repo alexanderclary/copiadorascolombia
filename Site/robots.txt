@@ -1,0 +1,3 @@
+User-agent: Googlebot
+Disallow: /http://copiadorascolombia.co/wp-admin/
+Sitemap: http://copiadorascolombia.co

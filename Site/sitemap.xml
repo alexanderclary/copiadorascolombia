@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+	xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+	<url>
+		<loc>http://copiadorascolombia.co/index.php</loc> 
+		<lastmod>2016-03-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/encabezado.png</image:loc>
+    		<image:caption>Toshiba, kyocera, Ricoh, Minolta, Canon, Hp, Lexmark, Samsung, Epson</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/demo.png</image:loc>
+    		<image:caption>Fotocopiadoras y Copiadoras</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/board.png</image:loc>
+    		<image:caption>fotocopiadoras</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/botton.png</image:loc>
+    		<image:caption>Copiadoras Colombia</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/fotocopiadora.png</image:loc>
+    		<image:caption>fotocopiadoras</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/copiadora.png</image:loc>
+    		<image:caption>Marcas fotocopiadoras</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/cost.png</image:loc>
+    		<image:caption>cuanto vale una fotocopiadora</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/right-arrow.png</image:loc>
+    		<image:caption>fotocopiadoras colombia</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/bottom-logos.png</image:loc>
+    		<image:caption>fotocopiadoras colombia</image:caption>
+    	</image:image>
+	</url>
+	<url>
+		<loc>http://copiadorascolombia.co/gracias</loc> 
+		<lastmod>2016-03-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/encabezado.png</image:loc>
+    		<image:caption>Toshiba, kyocera, Ricoh, Minolta, Canon, Hp, Lexmark, Samsung, Epson</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/demo.png</image:loc>
+    		<image:caption>Fotocopiadoras y Copiadoras</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/board.png</image:loc>
+    		<image:caption>fotocopiadoras</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/botton.png</image:loc>
+    		<image:caption>Copiadoras Colombia</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/fotocopiadora.png</image:loc>
+    		<image:caption>fotocopiadoras</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/copiadora.png</image:loc>
+    		<image:caption>Marcas fotocopiadoras</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/cost.png</image:loc>
+    		<image:caption>cuanto vale una fotocopiadora</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/right-arrow.png</image:loc>
+    		<image:caption>fotocopiadoras colombia</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/bottom-logos.png</image:loc>
+    		<image:caption>fotocopiadoras colombia</image:caption>
+    	</image:image>
+	</url>
+</urlset>

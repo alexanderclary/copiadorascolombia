@@ -1,0 +1,34 @@
+/*!
+* Bontact Admin UI.
+**/
+
+iframe.bont-admin-embed {
+	width: 100%;
+	min-height: 800px;
+}
+
+div.bontact-admin-wrap ul.bont-ul-circle {
+	list-style-type: circle;
+	margin-left: 30px;
+}
+
+body.rtl div.bontact-admin-wrap ul.bont-ul-circle {
+	margin-left: auto;
+	margin-right: 30px;
+}
+
+div.bontact-admin-wrap hr.bont-get-space {
+	margin: 30px 0;
+}
+
+div.bontact-admin-wrap p.bont-get-space {
+	margin-top: 30px;
+}
+
+.bont-notice {
+background-color: #fff;
+padding-top: 50px;
+padding-right: 15px;
+height:80px;
+
+}
